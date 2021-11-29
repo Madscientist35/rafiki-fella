@@ -945,7 +945,8 @@ section {
   font-size: 14px;
 }
 #footer .footer-top {
-  padding: 10px 0 20px 0;
+  padding: 10px 200px 20px 700px;
+  
 }
 #footer .footer-top .footer-info {
   margin-bottom: 15px;
@@ -972,7 +973,7 @@ section {
   display: inline-block;
   color: #fff;
   line-height: 1;
-  padding: 8px 0;
+  padding: 8px 0px;
   margin-right: 4px;
   border-radius: 4px;
   text-align: center;
